@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="user-manager-infrastructure" />
+        <module name="user-manager-util" />
+        <module name="user-manager-domain" />
+        <module name="user-manager-boot" />
+        <module name="user-manager-application" />
+        <module name="user-manager-client" />
+        <module name="user-manager-facade" />
+        <module name="user-manager-integration" />
+        <module name="user-manager-controller" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

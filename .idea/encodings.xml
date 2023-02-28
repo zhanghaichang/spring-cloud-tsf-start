@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/order-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-boot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-facade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-facade/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-integration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-integration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-manager/user-manager-util/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
