@@ -2,15 +2,8 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>spring-cloud-tsf-start</artifactId>
     <modules>
-        <module>user-manager-client</module>
-        <module>user-manager-controller</module>
-        <module>user-manager-domain</module>
-        <module>user-manager-facade</module>
-        <module>user-manager-infrastructure</module>
-        <module>user-manager-integration</module>
-        <module>user-manager-util</module>
-        <module>user-manager-application</module>
-        <module>user-manager-boot</module>
+        <module>order-manager</module>
+        <module>user-manager</module>
     </modules>
     <groupId>com.dwring</groupId>
     <packaging>pom</packaging>
